@@ -1,0 +1,7 @@
+pyTelegramBotAPI
+anthropic
+PyPDF2
+python-docx
+docx2txt
+Pillow
+pytesseract
